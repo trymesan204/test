@@ -10,12 +10,12 @@ tags:
 
 The book How to Win Friends and Influence People is one of the best book for maintaining a good personal relationship with all the people we meet in a day from the morning newspaper guy to the last guy we meet on our way back home. The author has categorized the book in four sections where he describes how to communicate with people, how to make them like you, how to win their thinking and how to be a leader respectively by giving many examples of people from personalities like Abraham Lincoln and Theodore Roosevelt to the students of his course which show how practical this book is.
 
-1. Handling People
+1. Handling People.
 Here Carnegie mentions principles in handling people based on common nature of every life on the planet.
 
 Nobody wants to hear a complain about themselves. Nobody wants to get criticized. This is because everyone is right in their own way of thinking. Everything a person does is always good. Even a gangster thinks high of himself. So do not speak ill of any person, be it your wife, children or any other people. Appreciate everyone. Give an honest appreciation not just common flattery. Everyone want to be praised. Try to understand the other persons point of view. Talk them in their views. Make other people think that your idea is their idea. This way you can make them do what you want. So arouse an eager want in people.
 
-2. Making People Like You
+2. Making People Like You.
 Everyone wants to be loved. Those who know simple things gets loved, those who ignores does not.
 
 Try to be genuinely interested in other person. You can only make other people interest in you if you get interested in them. Analyze the things they say honestly. Listen attentively. Be a good listener and encourage people to talk about themselves and their accomplishments. Don’t interrupt anyone while they are talking. Listen their good as well as bitter experience. Smile every time you greet a person. Smile while eating, speaking, talking. Force yourself to smile. Smile attracts people. Smile shows you are having a good time meeting a person. Call people by their name. One’s name is the sweetest word anyone hears. If you want to talk, then talk in terms of other people’s interest. Talk about what they want not what you want. People don’t like to hear other person’s interest. Another simple thing to do is make other person feel important. Appreciate their work and feel their importance. Make them know their own worth.

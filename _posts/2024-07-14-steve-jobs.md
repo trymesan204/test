@@ -1,6 +1,6 @@
 ---
 title: "Steve Jobs By Walter Issacson (Summary)"
-date: 2024-07-15
+date: 2024-07-14
 categories:
   - blog
 tags:

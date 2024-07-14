@@ -1,6 +1,6 @@
 ---
 title: "After Death"
-date: 2024-07-15
+date: 2024-07-14
 categories:
   - blog
 tags:

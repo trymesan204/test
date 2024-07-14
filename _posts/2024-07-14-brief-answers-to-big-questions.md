@@ -10,7 +10,7 @@ tags:
 
 This book is the last book authored by Stephen Hawking. In this book, he tries to answer some of the big question that have been wandering in this world. Is there a god? Is time travel possible? What is inside a black hole? These are the questions that everyone wants the answer to. Hawking tries to give his viewpoint on all the questions by giving scientific logic. So lets start.
 
-Is there a god?
+1. Is there a god?
 God created everything. The universe and the human beings. But time and space are intertwined according to Einstein’s general theory of relativity. So before universe was created, there should have been no time. Then how can God exists without time? It’s like asking what is to the south of the south pole. The Big Bang started everything. There exist negative energy for everything that exists in this universe. The universe was the result of the big bang. So he believe there is no god.
 
 2. Can we predict the future?
