@@ -1,5 +1,5 @@
 ---
-title: "Economics in One Lesson"
+title: "Economics in One Lesson By Henry Hazlitt (Summary)"
 date: 2024-07-14
 categories:
   - blog
