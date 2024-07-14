@@ -65,8 +65,8 @@ author:
     - label: "sandeshupadhyaya.com.np"
       icon: "fas fa-fw fa-link"
       url: "https://sandeshupadhyaya.com.np"
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/SandeshPrasadU1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -77,9 +77,9 @@ author:
 
 footer:
   links:
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/SandeshPrasadU1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/trymesan204"
